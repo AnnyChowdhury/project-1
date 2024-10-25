@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    background-color: pink;
+    width: 500px;
+    height: 1250px;
+    padding: 50px;
+    border: 5x solid purple;
+    margin: 50px auto;
+    border-radius: 15px;
+
+}
+.preparation{
+    background-color: rgb(245, 217, 234);
+    border-radius: 15px;
+    height: 120px;
+    width: 400px;
+    padding: auto;
+}
+.ingredients{
+    border-bottom: 2px solid black;
+}
+.instructions{
+    border-bottom: 2px solid black;
+}
+
+table {
+    border-collapse: collapse;
+  }
+  
+  td{
+    border-bottom: 2px solid black;
+  }
+  table {
+    width: 100%
+  }
